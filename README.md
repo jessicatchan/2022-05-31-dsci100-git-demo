@@ -5,5 +5,7 @@ Hello Summer 2022 Class!
 
 ☺️
 
-We can clone our project down into our home folder
-Use the https url
+- We can clone our project down into our home folder
+- Use the https url
+
+To create a PAT you go to settings > developer settings > Personal Access Token.
